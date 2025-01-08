@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/mansi_engineering/static/css/main.2ec13eb9.css",
+    "main.js": "/mansi_engineering/static/js/main.4bb2a9e1.js",
+    "static/js/488.fe64eae2.chunk.js": "/mansi_engineering/static/js/488.fe64eae2.chunk.js",
+    "static/media/01.jpg": "/mansi_engineering/static/media/01.e2c3a0a9325b109788d9.jpg",
+    "static/media/pump.png": "/mansi_engineering/static/media/pump.ea234cfd6a6e8416376f.png",
+    "static/media/02.png": "/mansi_engineering/static/media/02.aa25f9a3a486f6a6a7a3.png",
+    "static/media/borewell-submersible-pump.png": "/mansi_engineering/static/media/borewell-submersible-pump.251b21905124bb402efe.png",
+    "static/media/01.png": "/mansi_engineering/static/media/01.7de4c815f125ce4d99d4.png",
+    "static/media/booster-pump.jpg": "/mansi_engineering/static/media/booster-pump.e22c7920a879f70799b1.jpg",
+    "static/media/pump13.png": "/mansi_engineering/static/media/pump13.7522447f56374d3d0d3b.png",
+    "static/media/bg.jpg": "/mansi_engineering/static/media/bg.3f61a66565d146daa53f.jpg",
+    "static/media/water-pump.jpeg": "/mansi_engineering/static/media/water-pump.cd2478039de3f3c9b32b.jpeg",
+    "static/media/04.png": "/mansi_engineering/static/media/04.099f7162404f67c72e0e.png",
+    "static/media/pump1.jpg": "/mansi_engineering/static/media/pump1.66498397d0a1276f8009.jpg",
+    "static/media/pump2.jpg": "/mansi_engineering/static/media/pump2.24fe5c42f378156b6827.jpg",
+    "static/media/single.jpg": "/mansi_engineering/static/media/single.8deae30af22abeeceaf5.jpg",
+    "static/media/contact.jpg": "/mansi_engineering/static/media/contact.5f1f1797fe13e165bfb4.jpg",
+    "static/media/logo.png": "/mansi_engineering/static/media/logo.f2fa554b0651cc937627.png",
+    "static/media/submersible-pump.jpg": "/mansi_engineering/static/media/submersible-pump.e8e7fb4d55ecc0bc21ba.jpg",
+    "static/media/pump11.jpg": "/mansi_engineering/static/media/pump11.7ac1e3f01a17f57d4dc1.jpg",
+    "static/media/pump10.jpg": "/mansi_engineering/static/media/pump10.6f8d6310ee2c6cc016e1.jpg",
+    "static/media/pump9.jpg": "/mansi_engineering/static/media/pump9.03f3dfe0f064b0811843.jpg",
+    "static/media/pump8.webp": "/mansi_engineering/static/media/pump8.b8cf4331df48318d2057.webp",
+    "static/media/why-choose-us.jpg": "/mansi_engineering/static/media/why-choose-us.920bdc7ad43efff65b1a.jpg",
+    "static/media/submersible-pump-service.jpg": "/mansi_engineering/static/media/submersible-pump-service.84406e1ab1541aec3961.jpg",
+    "static/media/borewell-pump-service.jpg": "/mansi_engineering/static/media/borewell-pump-service.75e8f993603c04e2c05a.jpg",
+    "static/media/pump12.jpg": "/mansi_engineering/static/media/pump12.70e8199050610d5e712b.jpg",
+    "static/media/water-pump-service.jpg": "/mansi_engineering/static/media/water-pump-service.545d1b03b57d9a3ba48a.jpg",
+    "static/media/pump4.jpg": "/mansi_engineering/static/media/pump4.578df47a55e9a29cb47f.jpg",
+    "static/media/pump-service.jpg": "/mansi_engineering/static/media/pump-service.f202bc24a9763a9cea1e.jpg",
+    "index.html": "/mansi_engineering/index.html",
+    "main.2ec13eb9.css.map": "/mansi_engineering/static/css/main.2ec13eb9.css.map",
+    "main.4bb2a9e1.js.map": "/mansi_engineering/static/js/main.4bb2a9e1.js.map",
+    "488.fe64eae2.chunk.js.map": "/mansi_engineering/static/js/488.fe64eae2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec13eb9.css",
+    "static/js/main.4bb2a9e1.js"
+  ]
+}
