@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './Header'
 import Footer from './Footer'
-// import contact from '../assets/img/contact/01.jpg'
+
 import { Link } from 'react-router-dom'
 import breadcrumb from '../assets/img/breadcrumb/01.jpg'
 import contact from '../assets/img/contact.jpg'

@@ -6,13 +6,11 @@ import choose from '../assets/img/why-choose-us.jpg'
 
 import pump1 from '../assets/img/pump1.jpg'
 import pump2 from '../assets/img/pump2.jpg'
-import pump11 from '../assets/img/pump11.jpg'
-import pump12 from '../assets/img/pump12.jpg'
+
+
 import submersible from '../assets/img/submersible-pump.jpg'
 import pump8 from '../assets/img/pump8.webp'
-import pump9 from '../assets/img/pump9.jpg'
-import pump10 from '../assets/img/pump10.jpg'
-import pump4 from '../assets/img/pump4.jpg'
+
 import borewellpump from '../assets/img/borewell-submersible-pump.png'
 import pump from '../assets/img/pump.png'
 import pump13 from '../assets/img/pump13.png'

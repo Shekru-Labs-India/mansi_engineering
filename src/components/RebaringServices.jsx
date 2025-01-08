@@ -2,8 +2,7 @@ import React from 'react'
 import Header from './Header'
 import Footer from './Footer'
 import { Link } from 'react-router-dom'
-import service from '../assets/img/service/single.jpg'
-import pump10 from '../assets/img/pump10.jpg'
+
 import breadcrumb from '../assets/img/breadcrumb/01.jpg'
 import BorewellPumpservice from '../assets/img/borewell-pump-service.jpg'
 

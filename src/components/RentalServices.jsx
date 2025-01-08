@@ -1,9 +1,9 @@
 import React from 'react'
 import Header from './Header'
 import Footer from './Footer'
-import service from '../assets/img/service/single.jpg'
+
 import { Link } from 'react-router-dom'
-import pump10 from '../assets/img/pump10.jpg'
+
 import breadcrumb from '../assets/img/breadcrumb/01.jpg'
 import waterpumpservice from '../assets/img/water-pump-service.jpg'
 
