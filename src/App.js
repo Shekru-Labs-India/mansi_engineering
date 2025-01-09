@@ -13,7 +13,7 @@ import PumpRepairingServices from './components/PumpRepairingServices';
 import DewateringPumpHiringServices from './components/DewateringPumpHiringServices';
 import RebaringServices from './components/RebaringServices';
 import PreLoader from './components/PreLoader';
-import NotFound from './components/NotFound';
+
 
 
 function App() {
@@ -51,7 +51,7 @@ function App() {
             <Route path="/pump-repairing-services" element={<PumpRepairingServices />} />
             <Route path="/dewatering-pump-hiring-services" element={<DewateringPumpHiringServices />} />
             <Route path="/repairing-services" element={<RebaringServices />} />
-            <Route path="*" element={<NotFound />} />
+            
 
 
           </Routes>
